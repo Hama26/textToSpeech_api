@@ -8,8 +8,8 @@ dotenv.config();
 // Initialize PlayHT SDK
 try {
   PlayHT.init({
-    apiKey: 'e4174ce7bf3d402b8a1167bc3ec685b3',
-    userId: 'NNFIOBvodtOlJFi10TSOSS75Hsm1',
+    apiKey: '1a6290b499344692b24269757ae104c4',
+    userId: 'jZJ0Rz2TAzNcIcQjl3UPrYfRwVC2',
   });
 } catch (error) {
   console.log('Failed to initialise PlayHT SDK', error.message);
